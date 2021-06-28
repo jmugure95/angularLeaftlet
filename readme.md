@@ -21,7 +21,7 @@ export class MapComponent implements OnInit {
 }
 ```
 
-#### 2. Add leaflet.css
+#### 2. Add leaflet.css to angular.json
 ```
  "styles": [
     "./node_modules/leaflet/dist/leaflet.css",
@@ -29,6 +29,13 @@ export class MapComponent implements OnInit {
  ],
  
 ```
+graph LR;
+    A[Write code] --> B{Dode it work?}
+    B -- Yes --> C[Great!]
+    B -- No --> D[Google]
+    D --> A
+```
+
 Reference link: [DigitalOcean][1]
 
 [1]: https://www.digitalocean.com/community/tutorials/angular-angular-and-leaflet
