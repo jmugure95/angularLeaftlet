@@ -48,4 +48,7 @@ git config --global user.name "username"
 fit config --global user.password "my token"
 
 git config --global credential.helper cache
-i have a helper
+then run 
+git pull
+
+you have to love this 
