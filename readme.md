@@ -39,3 +39,10 @@ graph LR;
 Reference link: [DigitalOcean][1]
 
 [1]: https://www.digitalocean.com/community/tutorials/angular-angular-and-leaflet
+
+```
+
+### Set automatic git username and password
+````
+git config --global user.name "username"
+fit config --global user.password "my token"
