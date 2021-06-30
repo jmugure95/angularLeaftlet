@@ -46,3 +46,5 @@ Reference link: [DigitalOcean][1]
 ````
 git config --global user.name "username"
 fit config --global user.password "my token"
+
+git config --global credential.helper cache
