@@ -1,5 +1,7 @@
 # Angular Leaflet
 
+###### This project demonstartes how to project geojson data(points and polygons) on a leaflet map.
+
 #### 1. Installing Leaflet
 ```
 npm install leaflet@1.7.1
