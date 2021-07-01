@@ -1,6 +1,8 @@
 # Angular Leaflet
 
 ###### This project demonstartes how to project geojson data(points and polygons) on a leaflet map.
+###### We import leaflet to angular, we display state data using markers and create shadows on the markers
+###### Project the state polygons onto the map
 
 #### 1. Installing Leaflet
 ```
